@@ -1,0 +1,63 @@
+.left ,.right{
+  width: 45%;
+  margin:20px; 
+}
+#container{
+  display: flex;
+  justify-content: space-between;
+}
+.left{
+  padding: 15px;
+}
+.right{
+  align-items: center;
+  text-align: center;
+}
+.nav-link{
+  margin: 10px;
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+.btn{
+  margin-left:10px;
+}
+.right img{
+  height:34vh;
+  width: 60vh;
+  align-items: center;
+}
+#cardimg{
+  width: 18rem;
+  height: 8rem;
+  text-align: center;
+}
+#login{
+  width: 30%;
+  height: auto;
+  text-align: center;
+  border-radius: 5px;
+}
+@media only screen and (max-width:800px) {
+  body{
+    background-color: brown;
+  }
+  .left{
+    width: 100%;
+    margin:0;
+    padding: 0;
+  }
+  .right{
+    width: 100%;
+    margin:0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+  }
+  .right img{
+    max-width: fit-content;
+  }
+ 
+}

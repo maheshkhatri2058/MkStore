@@ -1,0 +1,37 @@
+[{
+  "Name":"Card1",
+  "Price":"$100",
+  "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728573345~exp=1728576945~hmac=bfccdb56fc9281720072e0ac0f690de8a7936b95d867926cbb151a713cf0ed79&w=740"
+},
+{
+  "Name":"Card2",
+  "Price":"$200",
+  "Image":"https://www.bookstellyouwhy.com/pictures/53962.jpg"
+},
+{
+  "Name":"Card3",
+  "Price":"$300",
+  "Image":"https://www.bookstellyouwhy.com/pictures/53962.jpg"
+  
+},
+{
+  "Name":"Card4",
+  "Price":"$400",
+  "Image":"https://via.placeholder.com/150"
+},
+{
+  "Name":"Card5",
+  "Price":"$400",
+  "Image":"https://via.placeholder.com/150"
+},
+{
+  "Name":"Card6",
+  "Price":"$400",
+  "Image":"https://via.placeholder.com/150"
+},
+{
+  "Name":"Card7",
+  "Price":"$400",
+  "Image":"https://via.placeholder.com/150"
+}
+]
